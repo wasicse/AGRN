@@ -1,0 +1,2 @@
+./Dataset/DREAM4/training data/insilico_size100_1_multifactorial.tsv
+./Dataset/DREAM4/DREAM4_Challenge2_GoldStandards/Size100multifactorial/DREAM4_GoldStandard_InSilico_Size100_multifactorial_1.tsv

@@ -1,0 +1,5 @@
+path	parent	name	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_gene_ids.tsv	syn2787220	net1_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_chip_features.tsv	syn2787220	net1_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_transcription_factors.tsv	syn2787220	net1_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_expression_data.tsv	syn2787220	net1_expression_data.tsv	True	text/tab-separated-values				

@@ -1,0 +1,6 @@
+path	parent	name	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/test data/DREAM5_NetworkInference_GoldStandard_Network2 - S. aureus.txt	syn2787213	DREAM5_NetworkInference_GoldStandard_Network2 - S. aureus.txt	True	text/plain				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/test data/DREAM5_NetworkInference_GoldStandardSigned_Network1 - in silico.tsv	syn2787213	DREAM5_NetworkInference_GoldStandardSigned_Network1 - in silico.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/test data/DREAM5_NetworkInference_GoldStandard_Network1 - in silico.tsv	syn2787213	DREAM5_NetworkInference_GoldStandard_Network1 - in silico.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/test data/DREAM5_NetworkInference_GoldStandard_Network3 - E. coli.tsv	syn2787213	DREAM5_NetworkInference_GoldStandard_Network3 - E. coli.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/test data/DREAM5_NetworkInference_GoldStandard_Network4 - S. cerevisiae.tsv	syn2787213	DREAM5_NetworkInference_GoldStandard_Network4 - S. cerevisiae.tsv	True	text/tab-separated-values				

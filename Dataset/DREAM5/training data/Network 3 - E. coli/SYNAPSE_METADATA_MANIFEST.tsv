@@ -1,0 +1,5 @@
+path	parent	name	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_chip_features.tsv	syn2787222	net3_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_transcription_factors.tsv	syn2787222	net3_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_gene_ids.tsv	syn2787222	net3_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_expression_data.tsv	syn2787222	net3_expression_data.tsv	True	text/tab-separated-values				

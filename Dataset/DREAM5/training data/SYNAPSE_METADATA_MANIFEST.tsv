@@ -1,0 +1,17 @@
+path	parent	name	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 2 - S. aureus/net2_chip_features.tsv	syn2787221	net2_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 2 - S. aureus/net2_transcription_factors.tsv	syn2787221	net2_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 2 - S. aureus/net2_gene_ids.tsv	syn2787221	net2_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 2 - S. aureus/net2_expression_data.tsv	syn2787221	net2_expression_data.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_gene_ids.tsv	syn2787220	net1_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_chip_features.tsv	syn2787220	net1_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_transcription_factors.tsv	syn2787220	net1_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 1 - in silico/net1_expression_data.tsv	syn2787220	net1_expression_data.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 4 - S. cerevisiae/net4_chip_features.tsv	syn2787223	net4_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 4 - S. cerevisiae/net4_transcription_factors.tsv	syn2787223	net4_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 4 - S. cerevisiae/net4_gene_ids.tsv	syn2787223	net4_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 4 - S. cerevisiae/net4_expression_data.tsv	syn2787223	net4_expression_data.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_chip_features.tsv	syn2787222	net3_chip_features.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_transcription_factors.tsv	syn2787222	net3_transcription_factors.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_gene_ids.tsv	syn2787222	net3_gene_ids.tsv	True	text/tab-separated-values				
+/home/mkabir3/Research/16_GPRN/Dataset/Gene Network Inference/training data/Network 3 - E. coli/net3_expression_data.tsv	syn2787222	net3_expression_data.tsv	True	text/tab-separated-values				
