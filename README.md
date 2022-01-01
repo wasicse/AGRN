@@ -71,6 +71,35 @@ poetry run python AGRN.py
 - Finally, check **output** folder for results. The output directory contains importance scores from ETR, SVR and RFR in csv files. The OutputResults.txt file shows the results in AUROC and AUPR.
 
 
+## Run with Docker
+
+- Build the docker image from Dockerfile.
+```
+export UID=$(id -u)
+export GID=$(id -g)
+docker build --build-arg USER=$USER \
+             --build-arg UID=$UID \
+             --build-arg GID=$GID \
+             --build-arg PW=asdf \
+             -t agrn\
+             -f Dockerfile.txt\
+             .
+```
+
+- Mount the Output direcotry in the Docker Container and run it.
+
+```
+docker run -ti  -v /$(pwd)/Output:/home/$USER/Output agrn:latest
+```
+
+- Then, run following python command from the root directory.
+```
+source $HOME/.poetry/env
+poetry run python AGRN.py
+```
+
+- Finally, check **output** folder for results. The output should be available in both host and docker. The output directory contains importance scores from ETR, SVR and RFR in csv files along with a OutputResults.txt file that shows the results in AUROC and AUPR. 
+
 ## Authors
 
 Duaa Mohammad Alawad, Md Wasi Ul Kabir, Md Tamjidul Hoque. For any issue please contact: Md Tamjidul Hoque, thoque@uno.edu 
