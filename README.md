@@ -8,7 +8,7 @@
 - [Prerequisites](#Prerequisites)
 - [Download and install code](#download-and-install-code)
 - [Demo](#demo)
-
+- [Run with Docker](#Run-with-Docker)
   
 # Getting Started
  
